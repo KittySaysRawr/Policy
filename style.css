@@ -1,0 +1,108 @@
+        body {
+            background-color: #f8fafc;
+            color: #0f172a;
+            transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 300ms;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+        .dark body {
+            background-color: #09090b;
+            color: #f4f4f5;
+        }
+        button:focus-visible {
+            outline: 2px solid transparent;
+            outline-offset: 2px;
+            box-shadow: 0 0 0 4px #10b981;
+        }
+        .dark button:focus-visible {
+            box-shadow: 0 0 0 4px #10b981, 0 0 0 6px #09090b;
+        }
+        .dyslexia-mode {
+            font-family: 'OpenDyslexic', 'Dyslexie', 'Lexend', 'Verdana', 'Arial', sans-serif !important;
+            letter-spacing: 0.05em;
+            word-spacing: 0.1em;
+        }
+        @font-face {
+            font-family: 'OpenDyslexic';
+            src: url('https://cdnjs.cloudflare.com/ajax/libs/opendyslexic/0.1/OpenDyslexic-Regular.otf') format('opentype');
+            font-weight: normal;
+            font-style: normal;
+        }
+        .reduce-motion, .reduce-motion * {
+            animation: none !important;
+            transition: none !important;
+            scroll-behavior: auto !important;
+            box-shadow: none !important;
+            backdrop-filter: none !important;
+            text-shadow: none !important;
+        }
+
+        .bento-card {
+            background-color: white;
+            border: 1px solid #e2e8f0;
+            border-radius: 2.5rem;
+            padding: 1.5rem;
+            box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+            transition-property: all;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+            transition-duration: 300ms;
+        }
+        @media (min-width: 768px) {
+            .bento-card {
+                padding: 2rem;
+            }
+        }
+        .dark .bento-card {
+            background-color: #18181b;
+            border-color: #27272a;
+        }
+        .bento-card-hover:hover {
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+            transform: translateY(-4px);
+        }
+        .policy-pill {
+            padding: 1rem;
+            border-radius: 1.5rem;
+            background-color: #f1f5f9;
+            border: 1px solid transparent;
+            text-align: left;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+        }
+        .dark .policy-pill {
+            background-color: #27272a;
+        }
+        .policy-pill-active {
+            background-color: #059669;
+            border-color: #059669;
+            color: white;
+            box-shadow: 0 10px 15px -3px rgba(5, 150, 105, 0.2);
+        }
+        .custom-scrollbar::-webkit-scrollbar {
+            width: 6px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-track {
+            background: transparent;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+            background: #e2e8f0;
+            border-radius: 9999px;
+        }
+        .dark .custom-scrollbar::-webkit-scrollbar-thumb {
+            background: #3f3f46;
+        }
+
+        .modal-opaque {
+            background-color: white;
+            border: 1px solid #e2e8f0;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+        }
+        .dark .modal-opaque {
+            background-color: #18181b;
+            border-color: #27272a;
+        }
+
+        [x-cloak] { display: none !important; }
