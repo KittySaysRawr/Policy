@@ -9,7 +9,7 @@
     <link rel="canonical" href="https://policy.greenmeans.ovh" />
     <meta property="og:title" content="GreenMeans: Policy" />
     <meta property="og:description" content="Policy Made Accessible, The Green Party stands for real change, where Green Means: Acting for nature, the climate, our communities, and the future." />
-    <meta property="og:image" content="https://policy.greenmeans.ovh/favicon.png" />
+    <meta property="og:image" content="favicon.png" />
     <meta property="og:url" content="https://policy.greenmeans.ovh" />
     <meta property="og:type" content="website" />
     <meta name="author" content="GreenMeans">
@@ -81,6 +81,10 @@
     class="min-h-screen flex flex-col p-4 md:p-8 overflow-x-hidden selection:bg-emerald-500/30"
     @keydown.escape="showSettings = false"
 >
+    <!-- Internal Analytics -->
+    <script defer src="https://info.greenmeans.ovh/assets_vital_metrics" data-website-id="cf384752-4365-4c51-b3d2-4e27b3807033"></script>
+    <noscript><img src="https://info.greenmeans.ovh/p/UtLkxMPD4" alt="" role="presentation" aria-hidden="true" width="1" height="1" style="position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;" loading="eager" /></noscript>
+
 <div x-show="isLoading" class="fixed inset-0 z-[9999] bg-white dark:bg-zinc-900 flex items-center justify-center">
         <div class="flex flex-col items-center gap-6">
             <div class="relative flex items-center justify-center">
@@ -254,6 +258,8 @@
             <p x-show="filteredPolicies.length === 0" class="text-slate-500">No results found for "<span x-text="searchQuery"></span>".</p>
         </div>
     </div>
+            
+
         </div>
     </header>
 
@@ -292,11 +298,7 @@
                 </template>
             </div>
         </section>
-        
-    <!-- Internal Analytics -->
-    <script defer src="https://info.greenmeans.ovh/assets_vital_metrics" data-website-id="cf384752-4365-4c51-b3d2-4e27b3807033"></script>
-    <noscript><img src="https://info.greenmeans.ovh/p/UtLkxMPD4" alt="" role="presentation" aria-hidden="true" width="1" height="1" style="position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;" loading="eager" /></noscript>
-        
+
         <!-- Hero Section (Manifesto Highlights) -->
         <section class="md:col-span-3 bento-card p-8 md:p-10 flex flex-col justify-center group relative overflow-hidden bg-white dark:bg-zinc-900 border-emerald-100 dark:border-emerald-900/30">
             <div class="absolute -top-24 -right-24 w-80 h-80 bg-emerald-500/10 rounded-full blur-3xl" aria-hidden="true"></div>
