@@ -33,7 +33,7 @@
                                     ]
                                 },
                                 {
-                                    text: 'Establish rigorous licensing based on the precautionary principle, restricting artificial fertilizers, pesticides, and banning GMO cultivation without proof of absolute safety.',
+                                    text: 'Establish rigorous licensing based on the precautionary principle, restricting artificial fertilisers, pesticides, and banning GMO cultivation without proof of absolute safety.',
                                     rationale: [
                                         'Protects farm workers, rural communities, wildlife, and broader ecosystems from toxic chemical accumulation.',
                                         'Transitions the agricultural system heavily towards organic and natural methods.'
@@ -46,7 +46,7 @@
                         },
                         {
                             title: 'Land, Environment & Climate',
-                            description: 'Utilizing carbon sequestration, reducing water pollution, and protecting natural waterways.',
+                            description: 'Utilising carbon sequestration, reducing water pollution, and protecting natural waterways.',
                             content: [
                                 {
                                     text: 'Target reducing nitrogen, phosphorus, and sediment pollution from agriculture into water environments by at least 50% by 2035.',
@@ -88,7 +88,7 @@
                                 {
                                     text: 'Actively promote healthy diets and regulate to reduce the presence and advertising of ultra-processed foods.',
                                     rationale: [
-                                        'Addresses the root causes of high levels of obesity and generalized public health degradation.',
+                                        'Addresses the root causes of high levels of obesity and generalised public health degradation.',
                                         'Fights the dominance of vast food processing manufacturers that profit off unhealthy and highly processed products.'
                                     ],
                                     sources: [
@@ -96,7 +96,7 @@
                                     ]
                                 },
                                 {
-                                    text: 'Require public sector bodies (schools, hospitals) to implement procurement processes utilizing local, sustainably sourced seasonal produce.',
+                                    text: 'Require public sector bodies (schools, hospitals) to implement procurement processes utilising local, sustainably sourced seasonal produce.',
                                     rationale: [
                                         'Creates an immediate, guaranteed democratic market for ethical local producers.',
                                         'Secures baseline access to highly nutritious, healthy meals for public service users and children.'
@@ -390,7 +390,7 @@
                                     text: 'Acknowledge climate catastrophe as a valid ground for asylum and extend refugee definitions to cover those fleeing environmental breakdown.',
                                     rationale: [
                                         'Recognises that the climate emergency is a direct driver of displacement, often exacerbated by the historical emissions of wealthier nations.',
-                                        'Modernizes international protection to reflect the realities of the 21st century.'
+                                        'Modernises international protection to reflect the realities of the 21st century.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -425,15 +425,15 @@
                                 {
                                     text: 'Completely abolish immigration detention and house all asylum seekers within the general community.',
                                     rationale: [
-                                        'Ends the traumatizing and punitive practice of incarcerating people who have committed no crime and are merely seeking safety.',
-                                        'Integrates applicants into society rather than isolating them in dehumanizing detainment centres.'
+                                        'Ends the traumatising and punitive practice of incarcerating people who have committed no crime and are merely seeking safety.',
+                                        'Integrates applicants into society rather than isolating them in dehumanising detainment centres.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
                                     ]
                                 },
                                 {
-                                    text: 'Divide the Home Office to create a specialized Department of Migration, and abolish penalties on commercial carriers for transporting undocumented migrants.',
+                                    text: 'Divide the Home Office to create a specialised Department of Migration, and abolish penalties on commercial carriers for transporting undocumented migrants.',
                                     rationale: [
                                         'Removes immigration processing from an intrinsically hostile, security-first department.',
                                         'Prevents airline and ferry staff from acting as proxy border guards, which forces refugees into unsafe crossings.'
@@ -445,7 +445,7 @@
                                 {
                                     text: 'Process claims within three months, approach interviews from a neutral standpoint, and guarantee fully funded Legal Aid at all stages.',
                                     rationale: [
-                                        'Ends the agony of years-long bureaucratic limbo that leaves applicants paralyzed.',
+                                        'Ends the agony of years-long bureaucratic limbo that leaves applicants paralysed.',
                                         'Ensures that the primary objective of the system is identifying protection needs, not finding excuses for rejection.'
                                     ],
                                     sources: [
@@ -482,7 +482,7 @@
                                     text: 'Grant indefinite leave to remain to successful applicants, abolish "No Recourse to Public Funds", and ease family reunion rules.',
                                     rationale: [
                                         'Provides true security and stability, allowing refugees to permanently rebuild their lives without the threat of future deportation.',
-                                        'Prioritizes human rights and family unity over restrictive financial thresholds.'
+                                        'Prioritises human rights and family unity over restrictive financial thresholds.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -808,7 +808,7 @@
                                 {
                                     text: 'Zero-rate live performances for VAT and modify licensing so small-scale live events in pubs and clubs are not stifled.',
                                     rationale: [
-                                        'Stimulates grassroots culture instead of overly commercialized superstar entertainment.',
+                                        'Stimulates grassroots culture instead of overly commercialised superstar entertainment.',
                                         'Rebalances the relationship between creators and local communities.'
                                     ],
                                     sources: [
@@ -984,7 +984,7 @@
                             description: 'Focusing on Human Security, prioritising climate action as security, and reforming international alliances like the UN and NATO.',
                             content: [
                                 {
-                                    text: 'Adopt a Human Security approach that prioritizes global cooperation, sustainable development, and addressing the climate emergency over military confrontation.',
+                                    text: 'Adopt a Human Security approach that prioritises global cooperation, sustainable development, and addressing the climate emergency over military confrontation.',
                                     rationale: [
                                         'Recognises that true security is found in addressing shared threats like climate change, poverty, and ecological collapse rather than stockpiling arms.',
                                         'Shifts national focus from aggression to resilience and mutual survival.'
@@ -996,7 +996,7 @@
                                 {
                                     text: 'Campaign to abolish permanent veto powers on the UN Security Council and require all military interventions to have a UN mandate.',
                                     rationale: [
-                                        'Democratizes the international security framework, preventing isolated superpowers from blocking necessary humanitarian or peace-building actions.',
+                                        'Democratises the international security framework, preventing isolated superpowers from blocking necessary humanitarian or peace-building actions.',
                                         'Ensures military actions are universally sanctioned and bound by international law.'
                                     ],
                                     sources: [
@@ -1006,7 +1006,7 @@
                                 {
                                     text: 'Push NATO towards a "No First Use" nuclear policy and focus its operations solely on the defence of member states without out-of-area overreach.',
                                     rationale: [
-                                        'Transforms existing military alliances from aggressive expansionist blocs into strictly defensive, stabilizing frameworks.',
+                                        'Transforms existing military alliances from aggressive expansionist blocs into strictly defensive, stabilising frameworks.',
                                         'Reduces the constant global tension of imminent nuclear escalation.'
                                     ],
                                     sources: [
@@ -1032,7 +1032,7 @@
                                 {
                                     text: 'Restrict the use of explosive weapons in populated areas and support international treaties banning chemical, biological, and cluster munitions.',
                                     rationale: [
-                                        'Reaffirms absolute commitment to international humanitarian law and the minimization of civilian casualty in conflict.',
+                                        'Reaffirms absolute commitment to international humanitarian law and the minimisation of civilian casualty in conflict.',
                                         'Actively works to eradicate indiscriminate weapons that permanently scar communities long after wars end.'
                                     ],
                                     sources: [
@@ -1058,7 +1058,7 @@
                                 {
                                     text: 'Close the government’s arms export agencies, end all state subsidies for arms transfers, and introduce a strictly defensive export licensing system.',
                                     rationale: [
-                                        'Stops the taxpayer from subsidizing the global spread of weaponry and conflict.',
+                                        'Stops the taxpayer from subsidising the global spread of weaponry and conflict.',
                                         'Ensures that UK-produced military equipment is never sold to human rights abusers or used to destabilise regions.'
                                     ],
                                     sources: [
@@ -1255,7 +1255,7 @@
                                 {
                                     text: 'Ensure consistent education for hospitalised children and eradicate the transition gap between children\'s and adults\' services.',
                                     rationale: [
-                                        'Stabilizes the traumatic discontinuities in care and learning as legally defined service ages change.',
+                                        'Stabilises the traumatic discontinuities in care and learning as legally defined service ages change.',
                                         'Leverages hybrid learning and support packets tailored to individual capabilities.'
                                     ],
                                     sources: [
@@ -1317,7 +1317,7 @@
                                 {
                                     text: 'Repeal the Misuse of Drugs Act 1971 and replace it with risk-based legal regulation of drugs.',
                                     rationale: [
-                                        'Dismantles the illicit market that empowers organized criminal networks.',
+                                        'Dismantles the illicit market that empowers organised criminal networks.',
                                         'Reduces the harms associated with unregulated production and supply.'
                                     ],
                                     sources: [
@@ -1355,7 +1355,7 @@
                                     text: 'End all criminal sanctions for the possession of drugs for personal use globally.',
                                     rationale: [
                                         'Recognises that punishing personal consumption exacerbates poverty, isolation, and trauma.',
-                                        'Frees up the justice system from prosecuting minor, non-violent offenses.'
+                                        'Frees up the justice system from prosecuting minor, non-violent offences.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -1425,7 +1425,7 @@
                     id: 'economy',
                     title: 'Economy',
                     icon: 'pound-sterling',
-                    highlight: 'Economy: Creating an ecologically sustainable, decentralized, and equitable economic system beyond infinite growth.',
+                    highlight: 'Economy: Creating an ecologically sustainable, decentralised, and equitable economic system beyond infinite growth.',
                     subPills: [
                         {
                             title: 'Ecological Sustainability & Indicators',
@@ -1453,7 +1453,7 @@
                                     ]
                                 },
                                 {
-                                    text: 'Prioritize industries with minimum environmental impact and proactively shrink those linked to defence, fossil fuels, and throwaway culture.',
+                                    text: 'Prioritise industries with minimum environmental impact and proactively shrink those linked to defence, fossil fuels, and throwaway culture.',
                                     rationale: [
                                         'Conserves natural planetary resources and regenerates damaged natural environments.',
                                         'Maintains self-sustaining ecological cycles vital for all human economic activity.'
@@ -1529,7 +1529,7 @@
                                     text: 'Expand Eco-taxes, including a steadily rising carbon tax, coupled with dividends returned directly to residents.',
                                     rationale: [
                                         'Ensures pollution costs are directly borne by those responsible.',
-                                        'Discourages ecologically unsustainable behaviors by raising the prices of polluting goods.'
+                                        'Discourages ecologically unsustainable behaviours by raising the prices of polluting goods.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -1542,7 +1542,7 @@
                             description: 'Transforming corporate law to enforce environmental well-being over shareholder dividends.',
                             content: [
                                 {
-                                    text: 'Amend the Companies Act so directors primarily prioritize the well-being of all living entities over shareholder dividends.',
+                                    text: 'Amend the Companies Act so directors primarily prioritise the well-being of all living entities over shareholder dividends.',
                                     rationale: [
                                         'Forces companies to invest their profits into equitable, transparent "just transitions" before distributing extracted profits.',
                                         'Protects global ecosystems and future generations against aggressive short-term corporatism.'
@@ -1564,7 +1564,7 @@
                                 {
                                     text: 'Support cooperatives, mutual economic enterprises, and end Private Finance Initiatives (PFIs) in public services.',
                                     rationale: [
-                                        'Decentralizes economic power in favor of smaller, democratically structured entities more receptive to local needs.',
+                                        'Decentralises economic power in favour of smaller, democratically structured entities more receptive to local needs.',
                                         'Ensures infrastructural projects are publicly owned long-term, halting indefinite public payouts to private shareholders.'
                                     ],
                                     sources: [
@@ -1579,16 +1579,16 @@
                     id: 'education',
                     title: 'Education',
                     icon: 'graduation-cap',
-                    highlight: 'Education: Fostering lifelong learning through a child-centered, democratically accountable, and fully comprehensive public system free from market pressures.',
+                    highlight: 'Education: Fostering lifelong learning through a child-centred, democratically accountable, and fully comprehensive public system free from market pressures.',
                     subPills: [
                         {
                             title: 'Early Years & Compulsory Schooling',
                             description: 'Delaying academic instruction to support structured play and treating education as a collabourative community asset.',
                             content: [
                                 {
-                                    text: 'Extend early years education and defer formal academic learning until age 6, emphasizing play, social cohesion, and character building.',
+                                    text: 'Extend early years education and defer formal academic learning until age 6, emphasising play, social cohesion, and character building.',
                                     rationale: [
-                                        'Aligns with evidence recognizing that developmentally appropriate early years are crucial and not mere preparation for school.',
+                                        'Aligns with evidence recognising that developmentally appropriate early years are crucial and not mere preparation for school.',
                                         'Prevents early academic pressure, allowing variation in children’s development to manifest naturally.'
                                     ],
                                     sources: [
@@ -1608,7 +1608,7 @@
                                 {
                                     text: 'Promote smaller schools (maximum 700 pupils) and classes of roughly 20 to support positive ethos and local accountability.',
                                     rationale: [
-                                        'Provides community units with continuity of staff, reducing behavioral problems and establishing safety/security.',
+                                        'Provides community units with continuity of staff, reducing behavioural problems and establishing safety/security.',
                                         'Enhances local democratic involvement and limits the need for student transport.'
                                     ],
                                     sources: [
@@ -1635,7 +1635,7 @@
                                     text: 'Abolish external SATS exams and the Year 1 Phonics Test to curb unnecessary testing pressures.',
                                     rationale: [
                                         'Removes regimes that oppress teaching and create undue anxiety on children as young as 5.',
-                                        'Replaces standardized testing with broad continuous, collabourative assessment models.'
+                                        'Replaces standardised testing with broad continuous, collabourative assessment models.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -1644,7 +1644,7 @@
                                 {
                                     text: 'Abolish competitive school league tables to discourage teaching-to-the-test mentalities and artificial admissions bubbles.',
                                     rationale: [
-                                        'Recognises that league tables frequently inflate the perception of schools with higher-ability intake, penalizing vulnerable communities.',
+                                        'Recognises that league tables frequently inflate the perception of schools with higher-ability intake, penalising vulnerable communities.',
                                         'Empowers local authorities to promote balanced admissions processes instead.'
                                     ],
                                     sources: [
@@ -1697,7 +1697,7 @@
                                 {
                                     text: 'Abolish all tuition fees across Further and Higher Education to treat it as a fundamental public right.',
                                     rationale: [
-                                        'Resists marketization models that view education as a product rather than a profound societal asset.',
+                                        'Resists marketisation models that view education as a product rather than a profound societal asset.',
                                         'Removes the overwhelming financial barrier for under-represented demographics entering universities.'
                                     ],
                                     sources: [
@@ -1709,7 +1709,7 @@
                                     text: 'Cancel and completely write-off all existing student tuition fee loans and maintenance debts.',
                                     rationale: [
                                         'Liberates generations of students from crippling lifetime debt interest tied to accessing basic opportunity.',
-                                        'Re-aligns public investment recognizing that educated populace ultimately leads a robust economy.'
+                                        'Re-aligns public investment recognising that educated populace ultimately leads a robust economy.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -1718,7 +1718,7 @@
                                 {
                                     text: 'Instate structural democratic governance of universities providing equal voting blocks for staff, students, and community.',
                                     rationale: [
-                                        'Moves away from increasingly corporatized vice-chancellors determining university administration unilaterally.',
+                                        'Moves away from increasingly corporatised vice-chancellors determining university administration unilaterally.',
                                         'Enforces strong caps to limit vice-chancellors\' salaries to mutually agreed scales.'
                                     ],
                                     sources: [
@@ -1734,7 +1734,7 @@
                     id: 'energy',
                     title: 'Energy',
                     icon: 'zap',
-                    highlight: 'Energy: A decarbonized energy system based on efficient renewable sources, democratic control, and a rapid phase-out of fossil fuels and nuclear power.',
+                    highlight: 'Energy: A decarbonised energy system based on efficient renewable sources, democratic control, and a rapid phase-out of fossil fuels and nuclear power.',
                     subPills: [
                         {
                             title: 'Power Generation & Infrastructure',
@@ -1801,7 +1801,7 @@
                                     text: 'Provide emergency grants to homeowners, landlords, and councils to fund immediate insulation improvements for those at risk of fuel poverty.',
                                     rationale: [
                                         'Protects vulnerable populations from the short-term shocks of energy price instability.',
-                                        'Creates immediate, localized skilled jobs in green construction and energy auditing.'
+                                        'Creates immediate, localised skilled jobs in green construction and energy auditing.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -2067,7 +2067,7 @@
                         },
                         {
                             title: 'Science, Education & Health Cooperation',
-                            description: 'Rejoining key European educational and scientific sharing programs.',
+                            description: 'Rejoining key European educational and scientific sharing programmes.',
                             content: [
                                 {
                                     text: 'Regain full membership of the Horizon Europe research programme on an equal footing, and return to full membership of Erasmus+.',
@@ -2172,10 +2172,10 @@
                                     ]
                                 },
                                 {
-                                    text: 'Enforce a strong presumption to protect all ancient woodland and prioritize planting new forests on degraded agricultural land.',
+                                    text: 'Enforce a strong presumption to protect all ancient woodland and prioritise planting new forests on degraded agricultural land.',
                                     rationale: [
                                         'Preserves irreplaceable ecosystems that cannot be replicated by new plantation forestry.',
-                                        'Balances food production by utilizing Grade 4 and 5 land for strategic woodland expansion.'
+                                        'Balances food production by utilising Grade 4 and 5 land for strategic woodland expansion.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' },
@@ -2236,9 +2236,9 @@
                                     ]
                                 },
                                 {
-                                    text: 'Facilitate the replacement of oil-based packaging with sustainable wood products and utilize forest residues for energy only when secondary to soil health.',
+                                    text: 'Facilitate the replacement of oil-based packaging with sustainable wood products and utilise forest residues for energy only when secondary to soil health.',
                                     rationale: [
-                                        'Displaces single-use plastics with biodegradable, localized alternatives.',
+                                        'Displaces single-use plastics with biodegradable, localised alternatives.',
                                         'Ensures biomass burning does not undercut necessary ecological soil retention and natural carbon sinks.'
                                     ],
                                     sources: [
@@ -2248,7 +2248,7 @@
                                 {
                                     text: 'Ensure no person lives more than 500m from green spaces with trees, and support Forest Schools to integrate woodland ecosystems into curricula.',
                                     rationale: [
-                                        'Democratizes access to the profound health and well-being benefits of natural canopy cover.',
+                                        'Democratises access to the profound health and well-being benefits of natural canopy cover.',
                                         'Instills a foundational understanding of ecology and conservation in younger generations.'
                                     ],
                                     sources: [
@@ -2284,7 +2284,7 @@
                                     text: 'Promote direct participation through decentralisation, encouraging face-to-face discussion and human-scale social activity.',
                                     rationale: [
                                         'Moves beyond simple voting to active participation, fostering cross-party cooperation and weakening rigid ideologies.',
-                                        'Utilizes models like "Open Space" to build inclusive, grassroots decision-making processes.'
+                                        'Utilises models like "Open Space" to build inclusive, grassroots decision-making processes.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -2310,7 +2310,7 @@
                                     text: 'Introduce Alternative Vote Plus (AV+) for Westminster and Single Transferable Vote (STV) for local elections to ensure proportionality.',
                                     rationale: [
                                         'Ensures every vote counts and political representation accurately reflects the diversity of public opinion.',
-                                        'Ends the sterile two-party dominance that characterizes the current "First Past The Post" system.'
+                                        'Ends the sterile two-party dominance that characterises the current "First Past The Post" system.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -2409,7 +2409,7 @@
                                 {
                                     text: 'Support Community Land Trusts (CLTs) and housing co-operatives with seed funding, simplified conveyancing, and direct transfers of public land.',
                                     rationale: [
-                                        'Empowers residents through democratic, community-led management of their own neighborhoods.',
+                                        'Empowers residents through democratic, community-led management of their own neighbourhoods.',
                                         'Creates housing models that remain affordable in perpetuity, insulated from speculative market forces.'
                                     ],
                                     sources: [
@@ -2462,7 +2462,7 @@
                             description: 'Adopting Housing First, taxing empty properties, and cracking down on rogue landlords.',
                             content: [
                                 {
-                                    text: 'Adopt a \'Housing First\' model to end rough sleeping, providing stable accommodation without requiring prior compliance to treatment programs.',
+                                    text: 'Adopt a \'Housing First\' model to end rough sleeping, providing stable accommodation without requiring prior compliance to treatment programmes.',
                                     rationale: [
                                         'Recognises that stable, secure shelter is the foundational prerequisite for addressing complex health or addiction issues.',
                                         'A proven, humane intervention that successfully ends chronic homelessness where conditional models fail.'
@@ -2476,7 +2476,7 @@
                                     text: 'Introduce mandatory council tax premiums on long-term empty properties and second homes, enabling local authorities to determine rates.',
                                     rationale: [
                                         'Penalises the hoarding of scarce housing stock as private wealth assets while local populations face severe shortages.',
-                                        'Encourages the return of underutilized housing into the functional residential market.'
+                                        'Encourages the return of underutilised housing into the functional residential market.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -2531,7 +2531,7 @@
                                     text: 'Replace blast furnaces with electric arc furnaces supplied by well-sorted UK scrap steel.',
                                     rationale: [
                                         'Urgently decarbonises heavy industry and reduces reliance on highly polluting, resource-intensive extraction methods.',
-                                        'Promotes a localized circular economy for critical materials.'
+                                        'Promotes a localised circular economy for critical materials.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -2544,7 +2544,7 @@
                             description: 'Basing corporate governance on stakeholder value, democratising workplaces, and regulating multinationals.',
                             content: [
                                 {
-                                    text: 'Amend the legal responsibilities of Company Directors to prioritize overall stakeholder value rather than the sole interest of shareholders.',
+                                    text: 'Amend the legal responsibilities of Company Directors to prioritise overall stakeholder value rather than the sole interest of shareholders.',
                                     rationale: [
                                         'Ensures companies operate in the long-term interest of society, their employees, and the environment rather than seeking short-term financial extraction.',
                                         'Embedding "triple bottom line" reporting forces companies to quantify net social and environmental contributions alongside financial metrics.'
@@ -2556,7 +2556,7 @@
                                 {
                                     text: 'Enforce mandatory representation on company boards for elected workforce members and require at least 40% of board members to be women.',
                                     rationale: [
-                                        'Democratizes industrial decision-making, giving workers a direct say in their conditions and the strategic direction of their enterprise.',
+                                        'Democratises industrial decision-making, giving workers a direct say in their conditions and the strategic direction of their enterprise.',
                                         'Breaks established corporate monopolies on power, ensuring diverse representation at the highest levels of governance.'
                                     ],
                                     sources: [
@@ -2564,9 +2564,9 @@
                                     ]
                                 },
                                 {
-                                    text: 'Grant employees of limited liability companies the right to ballot on mutualizing (transforming into a co-operative) their workplace.',
+                                    text: 'Grant employees of limited liability companies the right to ballot on mutualising (transforming into a co-operative) their workplace.',
                                     rationale: [
-                                        'Provides a pathway for communities and workers to directly own and govern localized, sustainable enterprises.',
+                                        'Provides a pathway for communities and workers to directly own and govern localised, sustainable enterprises.',
                                         'Shifts the economic structure away from exploitative transnational corporate scaling toward democratic social franchises.'
                                     ],
                                     sources: [
@@ -2577,7 +2577,7 @@
                         },
                         {
                             title: 'Spatial Planning & Localisation',
-                            description: 'Reversing regional inequalities, utilizing Community Banks, and introducing carbon tariffs.',
+                            description: 'Reversing regional inequalities, utilising Community Banks, and introducing carbon tariffs.',
                             content: [
                                 {
                                     text: 'Implement a National Economic Spatial Strategy to actively direct investment towards neglected regions and halt the over-concentration of industry in London and the South East.',
@@ -2592,7 +2592,7 @@
                                 {
                                     text: 'Establish Community Banks to provide preferential funding rates for local co-operatives and sustainable small enterprises.',
                                     rationale: [
-                                        'Decentralizes financial power, enabling communities to directly fund enterprises fulfilling specific local employment and environmental needs.',
+                                        'Decentralises financial power, enabling communities to directly fund enterprises fulfilling specific local employment and environmental needs.',
                                         'Overcomes the barriers small green businesses face accessing affordable capital from profit-driven multinational banks.'
                                     ],
                                     sources: [
@@ -2602,7 +2602,7 @@
                                 {
                                     text: 'Adopt carbon border tariffs to establish a level playing field for domestic sustainable production against environmentally harmful imports.',
                                     rationale: [
-                                        'Prevents environmental dumping by penalizing overseas production that relies on lower social or ecological standards.',
+                                        'Prevents environmental dumping by penalising overseas production that relies on lower social or ecological standards.',
                                         'Incentivises global supply chains to clean up their practices to maintain access to UK markets.'
                                     ],
                                     sources: [
@@ -2617,7 +2617,7 @@
                     id: 'international',
                     title: 'International',
                     icon: 'globe',
-                    highlight: 'International: Promoting global equity, canceling poor countries\' debts, aligning trade with climate goals, and defending human rights through a democratised UN.',
+                    highlight: 'International: Promoting global equity, cancelling poor countries\' debts, aligning trade with climate goals, and defending human rights through a democratised UN.',
                     subPills: [
                         {
                             title: 'Global Trade & Debt Justice',
@@ -2636,7 +2636,7 @@
                                 {
                                     text: 'Replace the WTO with a General Agreement on Sustainable Trade and a democratised World Localisation Organisation.',
                                     rationale: [
-                                        'Reverses globalisation by prioritising localized production, fair trade rules, and ensuring trade is subservient to environmental and labour rights.',
+                                        'Reverses globalisation by prioritising localised production, fair trade rules, and ensuring trade is subservient to environmental and labour rights.',
                                         'Allows nations to democratically protect their own economies and ecosystems from volatile, extractive global markets.'
                                     ],
                                     sources: [
@@ -2709,7 +2709,7 @@
                                     text: 'Campaign for a negotiated solution in Palestine/Israel based on mutual recognition, secure borders, and the evacuation of illegal settlements.',
                                     rationale: [
                                         'Addresses the root causes of the conflict through an end to blockade, apartheid practices, and human rights deprivations.',
-                                        'Seeks a sustainable peace based on international law, ending collective punishment, and recognizing equal rights.'
+                                        'Seeks a sustainable peace based on international law, ending collective punishment, and recognising equal rights.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -2770,7 +2770,7 @@
                         },
                         {
                             title: 'Trade Unions & Industrial Relations',
-                            description: 'Guaranteeing union recognition, protecting the right to strike, and establishing specialized Labour Courts.',
+                            description: 'Guaranteeing union recognition, protecting the right to strike, and establishing specialised Labour Courts.',
                             content: [
                                 {
                                     text: 'Enact a statutory right to join a trade union for all workers, guaranteeing union recognition and requiring employers to provide appropriate facilities.',
@@ -2791,7 +2791,7 @@
                                     ]
                                 },
                                 {
-                                    text: 'Establish separate, specialized Labour Courts and District Committees, composed of union, business, and community representatives.',
+                                    text: 'Establish separate, specialised Labour Courts and District Committees, composed of union, business, and community representatives.',
                                     rationale: [
                                         'Takes industrial relations out of the traditional, often hostile judiciary, placing it in the hands of balanced bodies focused on conciliation and justice.'
                                     ],
@@ -2808,7 +2808,7 @@
                                 {
                                     text: 'Require medium and large-sized companies to include employee-elected directors on their management boards.',
                                     rationale: [
-                                        'Democratizes economic power, ensuring that those who actually create an organisation\'s wealth have a direct say in how it is managed and distributed.'
+                                        'Democratises economic power, ensuring that those who actually create an organisation\'s wealth have a direct say in how it is managed and distributed.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -3075,7 +3075,7 @@
                                     text: 'Empower Commons Trusts to issue warnings and, as a last resort, compulsorily purchase land for breaches of stewardship.',
                                     rationale: [
                                         'Provides real teeth to environmental and social stewardship requirements, holding company directors personally responsible for severe failures.',
-                                        'Prioritizes restorative justice to repair damaged lands.'
+                                        'Prioritises restorative justice to repair damaged lands.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -3085,7 +3085,7 @@
                         },
                         {
                             title: 'Use Transition & Ecology',
-                            description: 'Restoring peatlands, dedicating 25% of land per square kilometre to nature, and optimizing land for biological carbon sequestration.',
+                            description: 'Restoring peatlands, dedicating 25% of land per square kilometre to nature, and optimising land for biological carbon sequestration.',
                             content: [
                                 {
                                     text: 'Target 25% of land in each square kilometre of the UK (except explicitly conserved areas) to comprise natural or semi-natural habitat.',
@@ -3124,7 +3124,7 @@
                             description: 'Reforming the planning system, using Land Value Tax, and introducing regional Land Commissions to guide just transitions.',
                             content: [
                                 {
-                                    text: 'Introduce Land Commissions across the UK to review ownership distribution and advise on equitable decentralization.',
+                                    text: 'Introduce Land Commissions across the UK to review ownership distribution and advise on equitable decentralisation.',
                                     rationale: [
                                         'Provides the structural framework to safely and fairly dismantle historically entrenched monopolies on land ownership.',
                                         'Empowers local communities by ensuring ownership policies reflect democratic, regional needs.'
@@ -3137,7 +3137,7 @@
                                     text: 'Implement a Land Use Framework to coordinate the planning system, integrating a carbon tax on land-use change emissions.',
                                     rationale: [
                                         'Ensures all development and agricultural shifts align with national carbon-reduction and biodiversity targets.',
-                                        'Maintains democratic control over scarce land resources while penalizing environmentally destructive construction.'
+                                        'Maintains democratic control over scarce land resources while penalising environmentally destructive construction.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -3180,7 +3180,7 @@
                                 {
                                     text: 'Transfer management of the seabed from the Crown Estate to new, democratic Commons Trusts that manage regions based on ecosystem-wide needs.',
                                     rationale: [
-                                        'Returns control of marine resources to communities and prioritizes long-term ecological sustainability over royal or private profit.',
+                                        'Returns control of marine resources to communities and prioritises long-term ecological sustainability over royal or private profit.',
                                         'Integrates land and sea under a coherent, democratic planning framework.'
                                     ],
                                     sources: [
@@ -3253,7 +3253,7 @@
                                     text: 'Require oil/gas operators to establish integrated Environmental Management Systems with strict liability for decommissioning and structural removal.',
                                     rationale: [
                                         'Ensures fossil fuel companies remain fully responsible for safely removing abandoned rigs and preventing chronic long-term leakage.',
-                                        'Internalizes the true cost of fossil fuel extraction on the marine environment.'
+                                        'Internalises the true cost of fossil fuel extraction on the marine environment.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -3287,7 +3287,7 @@
                                     text: 'End immigration detention and establish that migration is not a criminal offence under any circumstances.',
                                     rationale: [
                                         'Replaces a punitive, hostile environment with a fair and humane system of managed immigration.',
-                                        'Treats migrants with dignity, ending the traumatizing practice of locking people up for administrative reasons.'
+                                        'Treats migrants with dignity, ending the traumatising practice of locking people up for administrative reasons.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -3356,7 +3356,7 @@
                             description: 'Creating amnesty for undocumented migrants, ensuring automatic citizenship for UK-born children, and easing family reunions.',
                             content: [
                                 {
-                                    text: 'Offer undocumented migrants free support to regularize their status and grant settled status after five years.',
+                                    text: 'Offer undocumented migrants free support to regularise their status and grant settled status after five years.',
                                     rationale: [
                                         'Provides a practical, humane amnesty that brings exploited, underground populations back into formal legal protection.',
                                         'Ends the fear of deportation for established, undocumented community members.'
@@ -3378,7 +3378,7 @@
                                 {
                                     text: 'Guarantee visa residents the right to bring family members to the UK to live with them.',
                                     rationale: [
-                                        'Prioritizes human rights and the unity of families over arbitrary immigration quotas.',
+                                        'Prioritises human rights and the unity of families over arbitrary immigration quotas.',
                                         'Recognises that establishing roots and integrating robustly relies on familial and community support.'
                                     ],
                                     sources: [
@@ -3529,7 +3529,7 @@
                         },
                         {
                             title: 'Prevention, Maternity & Reproductive Rights',
-                            description: 'Prioritising early health, independent midwife continuity, and decriminalizing abortion.',
+                            description: 'Prioritising early health, independent midwife continuity, and decriminalising abortion.',
                             content: [
                                 {
                                     text: 'Shift the focus of health services towards illness prevention and health promotion, allocating more resources to community care.',
@@ -3552,10 +3552,10 @@
                                     ]
                                 },
                                 {
-                                    text: 'Remove abortion from the 1861 Offences Against the Person Act, decriminalizing it and treating it as a standard medical procedure.',
+                                    text: 'Remove abortion from the 1861 Offences Against the Person Act, decriminalising it and treating it as a standard medical procedure.',
                                     rationale: [
                                         'Ends the threat of imprisonment for terminating a pregnancy.',
-                                        'Secures absolute moral autonomy and reproductive freedom without criminal stigmatization.'
+                                        'Secures absolute moral autonomy and reproductive freedom without criminal stigmatisation.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' },
@@ -3583,7 +3583,7 @@
                                     text: 'Make illegal any form of \'Conversion\' therapy aimed at curing the sexuality or gender identity of an individual.',
                                     rationale: [
                                         'Bans an unethical, scientifically discredited practice that causes severe psychological harm.',
-                                        'Protects vulnerable adults and minors from institutionalized homophobia and transphobia.'
+                                        'Protects vulnerable adults and minors from institutionalised homophobia and transphobia.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' },
@@ -3618,7 +3618,7 @@
                                     ]
                                 },
                                 {
-                                    text: 'Establish a legal framework allowing the right to an assisted death, with strict safeguards, independent advocacy, and mandatory counseling.',
+                                    text: 'Establish a legal framework allowing the right to an assisted death, with strict safeguards, independent advocacy, and mandatory counselling.',
                                     rationale: [
                                         'Provides compassionate, dignified options for individuals suffering from incurable, terminal illnesses.',
                                         'Creates rigorous systemic protections to ensure absolute patient autonomy and prevent exploitation.'
@@ -3711,8 +3711,8 @@
                                 {
                                     text: 'Prohibit new out-of-town retail parks and car-based superstores, while capping new retail parking provisions.',
                                     rationale: [
-                                        'Ends the structural prioritization of carbon-intensive car dependency.',
-                                        'Revitalizes local, pedestrian-friendly high streets and protects independent businesses from mega-retailers.'
+                                        'Ends the structural prioritisation of carbon-intensive car dependency.',
+                                        'Revitalises local, pedestrian-friendly high streets and protects independent businesses from mega-retailers.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -3735,7 +3735,7 @@
                                     ]
                                 },
                                 {
-                                    text: 'Prioritize the retrofit, modification, and refurbishment of existing buildings over new construction and demolition.',
+                                    text: 'Prioritise the retrofit, modification, and refurbishment of existing buildings over new construction and demolition.',
                                     rationale: [
                                         'Dramatically reduces emissions by maintaining the massive amounts of embodied carbon already trapped within the existing built environment.',
                                         'Prevents the unnecessary generation of huge volumes of construction and demolition waste.'
@@ -3807,7 +3807,7 @@
                                 {
                                     text: 'Set up local Community Health and Environmental Councils (CHECs) fully empowered to inspect facilities, sample waste, and revoke operating licenses immediately without Crown immunity.',
                                     rationale: [
-                                        'Democratizes environmental enforcement by placing direct regulatory power into the hands of affected local representatives.',
+                                        'Democratises environmental enforcement by placing direct regulatory power into the hands of affected local representatives.',
                                         'Ensures that no entity, including the state, is above the law when it comes to polluting the environment.'
                                     ],
                                     sources: [
@@ -3817,7 +3817,7 @@
                                 {
                                     text: 'Hold polluters strictly liable for the costs of control and all resulting environmental or health damages, however remote in time or distance.',
                                     rationale: [
-                                        'Enforces the absolute "polluter pays" principle, preventing corporations from socializing the devastating costs of their profit-driven pollution.',
+                                        'Enforces the absolute "polluter pays" principle, preventing corporations from socialising the devastating costs of their profit-driven pollution.',
                                         'Deters reckless industrial expansion into complex or fragile ecosystems.'
                                     ],
                                     sources: [
@@ -3828,7 +3828,7 @@
                                     text: 'Progressively revise all hazardous workplace Threshold Limit Values downwards to account for chronic, long-term, and interacting synergistic effects.',
                                     rationale: [
                                         'Acknowledges that standard exposure limits routinely ignore the complex, compounded biology of chronic industrial exposure.',
-                                        'Prioritizes supreme worker safety over baseline operating conveniences.'
+                                        'Prioritises supreme worker safety over baseline operating conveniences.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -3844,7 +3844,7 @@
                                     text: 'Legally bind the UK to meet World Health Organisation (2021) guidelines for PM2.5 atmospheric pollution within a single decade.',
                                     rationale: [
                                         'Addresses the catastrophic public health crisis driven by particulate matter causing respiratory and cardiovascular diseases.',
-                                        'Acts as a fundamental step towards stabilizing the Atmospheric Aerosol Planetary Boundary.'
+                                        'Acts as a fundamental step towards stabilising the Atmospheric Aerosol Planetary Boundary.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -3864,7 +3864,7 @@
                                     text: 'Immediately ban the import of toxic, hazardous, or radioactive waste into the UK for treatment, reprocessing, or disposal.',
                                     rationale: [
                                         'Stops the UK from operating as a global toxic dump or profiting from international waste trading.',
-                                        'Forces countries to develop localized, sustainable waste-processing infrastructures at the source of generation.'
+                                        'Forces countries to develop localised, sustainable waste-processing infrastructures at the source of generation.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -3878,7 +3878,7 @@
                     id: 'population',
                     title: 'Population',
                     icon: 'users-round',
-                    highlight: 'Population: Addressing the climate impact of over-consumption, guaranteeing universally free and comprehensive family planning, and structuring a sustainable economy for an aging demographic.',
+                    highlight: 'Population: Addressing the climate impact of over-consumption, guaranteeing universally free and comprehensive family planning, and structuring a sustainable economy for an ageing demographic.',
                     subPills: [
                         {
                             title: 'Family Planning & Education',
@@ -3954,13 +3954,13 @@
                         },
                         {
                             title: 'Demographic Transition & Global Duty',
-                            description: 'Adapting the economy for an aging population and increasing overseas aid for global women\'s reproductive rights.',
+                            description: 'Adapting the economy for an ageing population and increasing overseas aid for global women\'s reproductive rights.',
                             content: [
                                 {
-                                    text: 'Reject the economic model that demands an ever-growing younger population to support the retired, replacing it with flexible policies for an aging demographic.',
+                                    text: 'Reject the economic model that demands an ever-growing younger population to support the retired, replacing it with flexible policies for an ageing demographic.',
                                     rationale: [
                                         'Acknowledges that continuous demographic growth is ecologically impossible on a finite planet.',
-                                        'Supports flexible working and preventive healthcare to make an aging population socially and economically manageable.'
+                                        'Supports flexible working and preventive healthcare to make an ageing population socially and economically manageable.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -3993,8 +3993,8 @@
                                 {
                                     text: 'Introduce a system of Resource Taxation applied at extraction or import points, with zero or reduced rates on recycled and reused materials.',
                                     rationale: [
-                                        'Internalizes the profound environmental costs of primary extraction into market prices.',
-                                        'Provides a massive financial incentive for industries to prioritize waste reduction, material recycling, and product longevity.'
+                                        'Internalises the profound environmental costs of primary extraction into market prices.',
+                                        'Provides a massive financial incentive for industries to prioritise waste reduction, material recycling, and product longevity.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -4100,14 +4100,14 @@
                     id: 'rights-and-responsibilities',
                     title: 'Rights',
                     icon: 'scale',
-                    highlight: 'Rights & Responsibilities: Enshrining the Rights of Nature in law, ending trans healthcare segregation, establishing universal access to justice, and decriminalizing sex work.',
+                    highlight: 'Rights & Responsibilities: Enshrining the Rights of Nature in law, ending trans healthcare segregation, establishing universal access to justice, and decriminalising sex work.',
                     subPills: [
                         {
                             title: 'Rights of Nature & Environmental Duties',
-                            description: 'Recognizing that the Earth and its ecosystems have an inherent legal right to exist, regenerate, and be restored.',
+                            description: 'Recognising that the Earth and its ecosystems have an inherent legal right to exist, regenerate, and be restored.',
                             content: [
                                 {
-                                    text: 'Legally recognize the Rights of Nature, empowering communities to defend ecosystems in court against corporate exploitation.',
+                                    text: 'Legally recognise the Rights of Nature, empowering communities to defend ecosystems in court against corporate exploitation.',
                                     rationale: [
                                         'Shifts environmental protection from an anthropocentric regulatory scheme to a fundamental legal defence of the living world.',
                                         'Stops corporations from using legal privileges to violate the fundamental rights of natural habitats.'
@@ -4119,7 +4119,7 @@
                                 {
                                     text: 'Establish the universal principle that human rights must be integrated with our active responsibility to protect life support systems.',
                                     rationale: [
-                                        'Rejects the liberal tradition that treats rights purely as individual freedom of action, recognizing that infinite exploitation is impossible on a finite planet.',
+                                        'Rejects the liberal tradition that treats rights purely as individual freedom of action, recognising that infinite exploitation is impossible on a finite planet.',
                                         'Ensures all political actions are evaluated by their impact on the biosphere and future generations.'
                                     ],
                                     sources: [
@@ -4127,7 +4127,7 @@
                                     ]
                                 },
                                 {
-                                    text: 'Recognize a child’s fundamental human right to access nature, outdoor spaces, and environmental education.',
+                                    text: 'Recognise a child’s fundamental human right to access nature, outdoor spaces, and environmental education.',
                                     rationale: [
                                         'Combats "Nature Deficit Disorder" and recognises that physical and mental well-being are intrinsically tied to ecological immersion.',
                                         'Addresses the systemic inequality that denies poorer communities access to green spaces.'
@@ -4143,7 +4143,7 @@
                             description: 'Implementing absolute self-determination for gender recognition, moving trans healthcare to primary care, and banning conversion therapy.',
                             content: [
                                 {
-                                    text: 'Allow individuals to legally update their gender via statutory declaration, recognizing non-binary identities and ending medical gatekeeping.',
+                                    text: 'Allow individuals to legally update their gender via statutory declaration, recognising non-binary identities and ending medical gatekeeping.',
                                     rationale: [
                                         'Recognises that gender identity is a matter of profound personal truth, not a psychiatric condition requiring state permission.',
                                         'Provides dignity and legal reality to all trans, non-binary, and intersex citizens.'
@@ -4176,7 +4176,7 @@
                         },
                         {
                             title: 'Civil Liberties, Justice & Equality',
-                            description: 'Guaranteeing universal legal aid, decriminalizing sex work, and fighting systemic racism and discrimination.',
+                            description: 'Guaranteeing universal legal aid, decriminalising sex work, and fighting systemic racism and discrimination.',
                             content: [
                                 {
                                     text: 'Guarantee comprehensive legal aid and prompt access to justice regardless of a person’s financial situation.',
@@ -4189,9 +4189,9 @@
                                     ]
                                 },
                                 {
-                                    text: 'Fully decriminalize all aspects of sex work involving consenting adults, and support licensing for safe, commercial brothels.',
+                                    text: 'Fully decriminalise all aspects of sex work involving consenting adults, and support licensing for safe, commercial brothels.',
                                     rationale: [
-                                        'Removes the criminalization that forces sex workers into the shadows, empowering them to unionize, report abuse, and work safely.',
+                                        'Removes the criminalisation that forces sex workers into the shadows, empowering them to unionise, report abuse, and work safely.',
                                         'Focuses law enforcement entirely on eradicating coercion, violence, and human trafficking.'
                                     ],
                                     sources: [
@@ -4201,7 +4201,7 @@
                                 {
                                     text: 'Enact specific statutory duties to protect Gypsy, Roma, and Traveller communities, and repeal discriminatory public order injunctions.',
                                     rationale: [
-                                        'Ends the state-sanctioned criminalization of traditional nomadic lifestyles.',
+                                        'Ends the state-sanctioned criminalisation of traditional nomadic lifestyles.',
                                         'Ensures equal access to life outcomes, appropriate housing, and cultural preservation for heavily marginalised groups.'
                                     ],
                                     sources: [
@@ -4236,7 +4236,7 @@
                                     text: 'Reduce military ("defence") research to a sustainable minimum, re-allocating freed resources to civilian and environmental research.',
                                     rationale: [
                                         'Shifts vast intellectual and financial resources away from systems of destruction towards systems of preservation and societal benefit.',
-                                        'Prioritizes solving the climate and ecological crises over geopolitical arms races.'
+                                        'Prioritises solving the climate and ecological crises over geopolitical arms races.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -4259,7 +4259,7 @@
                             description: 'Applying the Precautionary Principle to new technologies, banning inbuilt obsolescence, and imposing a moratorium on GMOs.',
                             content: [
                                 {
-                                    text: 'Apply a formalized Precautionary Principle to technologies posing plausible risks of ecocide, catastrophe, or human extinction.',
+                                    text: 'Apply a formalised Precautionary Principle to technologies posing plausible risks of ecocide, catastrophe, or human extinction.',
                                     rationale: [
                                         'Acknowledges that existential threats to humanity and the biosphere must be proactively regulated before deployment.',
                                         'Places the burden of proof for safety on the developers of high-risk novel entities.'
@@ -4282,7 +4282,7 @@
                                     text: 'Enforce a strict moratorium on the environmental release and importation of GMOs pending comprehensive ecological and health safety checks.',
                                     rationale: [
                                         'Protects biodiversity and local ecosystems from irreversible contamination by untested synthetic genetics.',
-                                        'Prevents a few multinational corporations from monopolizing global agriculture through patented organisms.'
+                                        'Prevents a few multinational corporations from monopolising global agriculture through patented organisms.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -4295,7 +4295,7 @@
                             description: 'Establishing comprehensive regulation for AI, prohibiting lethal autonomous weapons, and protecting workers displaced by automation.',
                             content: [
                                 {
-                                    text: 'Establish a legally-enforceable regulatory system for AI that mandates safety audits, transparency, and energy-performance labeling.',
+                                    text: 'Establish a legally-enforceable regulatory system for AI that mandates safety audits, transparency, and energy-performance labelling.',
                                     rationale: [
                                         'Ensures AI serves humans and nature, preventing systemic risks from unchecked generative or general-purpose AI.',
                                         'Highlights the massive energy and water consumption costs of training and running AI models.'
@@ -4362,7 +4362,7 @@
                                     text: 'Reform EPC assessments for heritage buildings to measure whole-life carbon and exempt them from inappropriate fabric interventions.',
                                     rationale: [
                                         'Protects historic building fabric from damaging installations like plastic windows or non-breathable insulation.',
-                                        'Prioritizes overall operational carbon reduction while funding heritage-appropriate energy upgrades.'
+                                        'Prioritises overall operational carbon reduction while funding heritage-appropriate energy upgrades.'
                                     ],
                                     sources: [
                                         { name: 'Green Party', url: 'https://greenparty.org.uk/' }
@@ -4421,7 +4421,7 @@
                                     ]
                                 },
                                 {
-                                    text: 'Strengthen the National Planning Policy to prioritize statutory protections for heritage assets and natural environments against development.',
+                                    text: 'Strengthen the National Planning Policy to prioritise statutory protections for heritage assets and natural environments against development.',
                                     rationale: [
                                         'Ensures the preservation of irreplaceable built heritage and fragile ecosystems from being overridden by commercial interests.',
                                         'Demands comprehensive environmental and heritage impact assessments for all planning applications.'
@@ -4431,7 +4431,7 @@
                                     ]
                                 },
                                 {
-                                    text: 'Heavily regulate cruise ship pollution, remove zero-rated VAT on airline tickets, and prioritize public/active transport for tourist sites.',
+                                    text: 'Heavily regulate cruise ship pollution, remove zero-rated VAT on airline tickets, and prioritise public/active transport for tourist sites.',
                                     rationale: [
                                         'Radically reduces the massive environmental footprint of the travel industry.',
                                         'Drives a transition towards a low-carbon, accessible tourism model centre.d on rail, cycling, and green transport hubs.'
@@ -4455,7 +4455,7 @@
                             description: 'Prioritising walking, cycling, and public transport through a strict modal hierarchy and "Streets for All" planning.',
                             content: [
                                 {
-                                    text: 'Implement a strict transport planning hierarchy that prioritizes walking, disabled access, cycling, and public transport above private cars and planes.',
+                                    text: 'Implement a strict transport planning hierarchy that prioritises walking, disabled access, cycling, and public transport above private cars and planes.',
                                     rationale: [
                                         'Ensures infrastructure investments benefit the most sustainable, healthy, and equitable modes of travel first.',
                                         'Reverses decades of car-centric planning that has marginalised pedestrians and cyclists.'
@@ -4549,7 +4549,7 @@
                                 {
                                     text: 'Apply the "polluter pays" principle through increased road fuel taxes, graded vehicle purchase taxes, and new aviation fuel levies.',
                                     rationale: [
-                                        'Forces the transport sector to internalize its massive environmental "externalities" (air pollution, noise, congestion, road damage).',
+                                        'Forces the transport sector to internalise its massive environmental "externalities" (air pollution, noise, congestion, road damage).',
                                         'Generates the hypothecated funding necessary to continually improve and subsidise sustainable alternatives.'
                                     ],
                                     sources: [
@@ -4581,7 +4581,7 @@
                                     ]
                                 },
                                 {
-                                    text: 'Base assessments on self-assessment by disabled people, utilizing person-centred processes to meet agreed needs and support independent living.',
+                                    text: 'Base assessments on self-assessment by disabled people, utilising person-centred processes to meet agreed needs and support independent living.',
                                     rationale: [
                                         'Places agency and autonomy back into the hands of disabled individuals, replacing inflexible, top-down institutional care.',
                                         'Allows individuals to manage their own care packages and choose providers they trust.'
@@ -4629,7 +4629,7 @@
                                 {
                                     text: 'Ensure small, therapeutic public sector homes are provided for children unable to live in family environments.',
                                     rationale: [
-                                        'Recognises that some children require specialized, professional therapeutic care rather than foster placements.',
+                                        'Recognises that some children require specialised, professional therapeutic care rather than foster placements.',
                                         'Ensures these homes are run by highly qualified, well-paid staff focused on the child\'s recovery and potential.'
                                     ],
                                     sources: [
